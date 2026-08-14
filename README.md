@@ -90,7 +90,7 @@ chat-app/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone < https://github.com/Swati06-maurya/PRODIGY_FS_04.git>
 cd chat-app
 ```
 
@@ -102,8 +102,8 @@ npm install
 
 Create a `.env` file in `backend/`:
 ```
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+MONGO_URI=mongodb+srv://swatimaurya10212_db_user:5pN2uvqYnp1mU6Ne@trustifycluster.y9jfy1p.mongodb.net/ChatbotDB?appName=TrustifyCluster
+JWT_SECRET=your _ jwt _ secret key
 PORT=5000
 CLIENT_URL=http://localhost:5173
 ```
