@@ -2,8 +2,8 @@
 
 A full-stack real-time chat application built for **Prodigy Infotech Task-04**. LiveLine enables instant messaging between users through public chat rooms and private one-on-one conversations, powered by WebSocket technology.
 
-🔗 **Live Demo:** [Add your deployed frontend URL here]
-🔗 **Backend API:** [Add your deployed backend URL here]
+🔗 **Live Demo:** 
+🔗 **Backend API:** https://prodigy-fs-04-hygd.onrender.com
 
 ---
 
