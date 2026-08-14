@@ -166,12 +166,6 @@ All routes except `/auth/*` require a `Authorization: Bearer <token>` header.
 
 ---
 
-## Screenshots
-
-[Add screenshots of your landing page, login, and chat interface here]
-
----
-
 ## Task Requirements Checklist
 
 - [x] Real-time chat application using WebSocket technology
