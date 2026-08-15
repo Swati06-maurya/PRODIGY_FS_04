@@ -2,7 +2,7 @@
 
 A full-stack real-time chat application built for **Prodigy Infotech Task-04**. LiveLine enables instant messaging between users through public chat rooms and private one-on-one conversations, powered by WebSocket technology.
 
-🔗 **Live Demo:** https://prodigy-fs-04-henna.vercel.app
+🔗 **Live Demo:** https://prodigy-fs-04-hyp60sb0a-swati15.vercel.app
 🔗 **Backend API:** https://prodigy-fs-04-hygd.onrender.com
 
 ---
